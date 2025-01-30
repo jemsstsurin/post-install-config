@@ -38,9 +38,11 @@ To configure Roles you first go to the Admin panel and then you go to Agents. Ne
 <br />
 
 ![image](https://github.com/user-attachments/assets/7112d493-a97a-47d2-a1ae-0e0bf515f98c)
+![image](https://github.com/user-attachments/assets/7d6070b0-1b1b-43b6-80f8-4954dd74a796)
+
 
 <p>
-To configure Roles you first go to the Admin panel and then you go to Agents. Next you click Roles then within Roles you choose any role or you can create your own role by clicking the ADD New Role tab and when creating your new role you choose the permissions the role can have by checking the boxes in the Tickets, Tasks, Knowledgebase tabs. 
+To configure the Department, within the Agent tab you click Departments and within that you can add and new department by clicking Add New Department and configure it to your liking. And for Teams, from the Agent tab and then you got to Teams within Teams you can create and New Team. 
 <br />
 
 <p>
