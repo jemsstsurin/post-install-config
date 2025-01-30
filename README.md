@@ -46,6 +46,8 @@ To configure the Department, within the Agent tab you click Departments and with
 <br />
 
 ![image](https://github.com/user-attachments/assets/1d573f5b-f802-4f51-b94d-65a850240c46)
+![image](https://github.com/user-attachments/assets/d5b5dcb9-e253-430d-b1b1-30f7b0fff6a3)
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
