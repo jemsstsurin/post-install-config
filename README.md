@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/36fea159-72be-4654-8a52-98024576e4cb)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To configure Roles you first go to the Admin panel and then you go to Agents. Next you click Roles then within Roles you choose any role or you can create your own role by clicking the ADD New Role tab and when creating your new role you choose the permissions the role can have by checking the boxes in the Tickets, Tasks, Knowledgebase tabs. 
 </p>
 <br />
 
