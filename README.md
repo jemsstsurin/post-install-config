@@ -21,7 +21,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles(for Grouping Permissions)
-- Configure Departments and Teams(Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+- Configure Departments and Teams(Ticket Visibility, Help Desk vs SysAdmins, vs Networking &
+  Teams You Pull Agents From Different Departments)
 - Configure Agents and Users(Workers and Customers)
 - Configure SLA and Help Topics(Help Topics is for when users create a ticket)
 - Item 5
@@ -36,9 +37,8 @@ To configure Roles you first go to the Admin panel and then you go to Agents. Ne
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/7112d493-a97a-47d2-a1ae-0e0bf515f98c)
+
 <p>
 To configure Roles you first go to the Admin panel and then you go to Agents. Next you click Roles then within Roles you choose any role or you can create your own role by clicking the ADD New Role tab and when creating your new role you choose the permissions the role can have by checking the boxes in the Tickets, Tasks, Knowledgebase tabs. 
 <br />
