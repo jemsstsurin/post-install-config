@@ -45,9 +45,8 @@ To configure Roles you first go to the Admin panel and then you go to Agents. Ne
 To configure the Department, within the Agent tab you click Departments and within that you can add and new department by clicking Add New Department and configure it to your liking. And for Teams, from the Agent tab and then you got to Teams within Teams you can create and New Team. 
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/1d573f5b-f802-4f51-b94d-65a850240c46)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
