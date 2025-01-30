@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   Teams You Pull Agents From Different Departments)
 - Configure Agents and Users(Workers and Customers)
 - Configure SLA and Help Topics(Help Topics is for when users create a ticket)
-- Item 5
+
 
 <h2>Configuration Steps</h2>
 
@@ -53,3 +53,12 @@ To configure the Department, within the Agent tab you click Departments and with
 To configure the Agents, within the Agent tab you click Add New Agent a you fill in the agents information. Then you can choose what the agent can do within the Acess, Permissons, Teams tab.
 To configure the Users you just to the go to he Users tab within Agents and just click Add Users and fill in the users information.
 <br />
+
+![image](https://github.com/user-attachments/assets/81a45079-27a7-4fb7-a3f3-d571af3480ff)
+![image](https://github.com/user-attachments/assets/176c7e49-302b-4ff6-802f-29bab78746e1)
+<p>To configure SLA you within the Admin Panel then go to Manage and click SLA and then you click Add New SLA Plan to create your SLA. To configure Help Topics within the Admin Panel you go to Manage and click Help Topics and within that you can create help topics by clicking Add New Help Topics.
+<br />
+
+
+
+
