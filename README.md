@@ -50,6 +50,6 @@ To configure the Department, within the Agent tab you click Departments and with
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+To configure the Agents, within the Agent tab you click Add New Agent a you fill in the agents information. Then you can choose what the agent can do within the Acess, Permissons, Teams tab.
+To configure the Users you just to the go to he Users tab within Agents and just click Add Users and fill in the users information.
 <br />
