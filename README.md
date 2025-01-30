@@ -20,10 +20,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- Configure Roles
+- Configure Departments and Teams
+- Configure Agents and Users
+- Configure SLA and Help Topics
 - Item 5
 
 <h2>Configuration Steps</h2>
